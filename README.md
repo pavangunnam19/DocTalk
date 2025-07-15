@@ -22,7 +22,7 @@ Skills Involved: Text embeddings, chunking, conversational retrieval
 
 Installation
 
-Clone the repository:git clone https://github.com/your-username/doctalk.git
+Clone the repository:git clone https://github.com/pavangunnam19/doctalk.git
 cd doctalk
 
 
