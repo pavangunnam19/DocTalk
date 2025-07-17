@@ -1,7 +1,7 @@
 streamlit
-langchain
-faiss-cpu
-chromadb
-pypdf
+PyPDF2
 sentence-transformers
-beautifulsoup4  
+scikit-learn
+numpy
+langchain-google-genai
+python-dotenv
